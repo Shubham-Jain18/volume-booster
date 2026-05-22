@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Secure Volume Booster",
+  "version": "1.0",
+  "description": "A clean, tracking-free audio gain extension.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
